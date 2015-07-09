@@ -1,0 +1,24 @@
+{
+  "name": "mozilla-payments-saucelabs-browsers",
+  "version": "0.0.1",
+  "description": "Shared saucelab browser configuration for Mozilla Payments projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla/payments-saucelabs-browsers.git"
+  },
+  "keywords": [
+    "mozilla",
+    "saucelabs",
+    "payments"
+  ],
+  "author": "Mozilla Payments Team",
+  "license": "MPL 2.0",
+  "bugs": {
+    "url": "https://github.com/muffinresearch/payments-saucelabs-browsers/issues"
+  },
+  "homepage": "https://github.com/muffinresearch/payments-saucelabs-browsers#readme"
+}

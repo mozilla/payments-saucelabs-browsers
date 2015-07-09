@@ -1,2 +1,4 @@
-# payments-saucelabs-browsers
-Browser configuration + versions for cross-browser testing.
+# Payments Saucelabs browser config.
+
+Browser configuration + versions for cross-browser testing of
+[Mozilla Payments](https://github.com/mozilla/payments) projects.
