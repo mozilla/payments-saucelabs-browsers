@@ -1,7 +1,7 @@
 {
   "name": "mozilla-payments-saucelabs-browsers",
   "version": "0.0.1",
-  "description": "Shared saucelab browser configuration for Mozilla Payments projects",
+  "description": "Shared Saucelabs browser configuration for Mozilla Payments projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "mozilla",
     "saucelabs",
-    "payments"
+    "payments",
+    "browsers"
   ],
   "author": "Mozilla Payments Team",
   "license": "MPL 2.0",
